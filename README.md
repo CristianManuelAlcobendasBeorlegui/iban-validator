@@ -12,7 +12,7 @@ Inclou proves unitàries a `tests/Unit/IBANTest.php` amb diversos casos de prova
 git clone https://github.com/CristianManuelAlcobendasBeorlegui/iban-validator
 ```
 
-### 2. Instala dependències
+### 2. Instal·la dependències
 ```bash
 composer update 
 composer install
