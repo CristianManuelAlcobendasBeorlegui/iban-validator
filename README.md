@@ -1,9 +1,9 @@
 # Validació i Descobriment de l'IBAN
 
 ## Descripció
-Projecte Laravel que permet validar si un IBAN es vàlid, comprobant si els dígits de control son correctes.
+Projecte Laravel que permet validar si un IBAN es vàlid, comprobant si els dígits de control són correctes.
 
-Inclou proves unitaries a `tests/Unit/IBANTest.php` amb diversos casos de prova.
+Inclou proves unitàries a `tests/Unit/IBANTest.php` amb diversos casos de prova.
 
 ## Posada en marxa
 
